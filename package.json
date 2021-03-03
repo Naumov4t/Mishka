@@ -42,7 +42,7 @@
     "imagemin-webp": "^4.1.0",
     "js-beautify": "^1.8.9",
     "merge-stream": "^1.0.1",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "stylelint": "^9.9.0",
     "stylelint-config-htmlacademy": "0.1.x",
     "stylelint-scss": "^3.4.4",
